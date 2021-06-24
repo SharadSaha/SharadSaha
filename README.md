@@ -11,7 +11,4 @@ I am a computer science enthusiast, currently pursuing B tech in CSE at National
 - 🤔 I’m looking for help with backend web development.
 - 
 - 📫 How to reach me: linkedin : [Sharad Saha](https://www.linkedin.com/in/sharad-saha-0906711b8/)
-                      email : sahasharad29@gmail.com
--                     
-
-
+                      email : sahasharad29@gmail.com                    
