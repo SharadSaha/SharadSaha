@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Sharad Saha! 👋
 
-<!--
-**SharadSaha/SharadSaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a computer science enthusiast, currently pursuing B tech in CSE at National Institute of Technology, Agartala. I am passionate about machine learning and also have interest in web development. 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [socket_programming](https://github.com/SharadSaha/socket_programming).
+- 🌱 I’m currently learning web development, and machine learning with tensorflow.
+- 👯 I’m looking to collaborate on network programming.
+- 🤔 I’m looking for help with backend web development.
+- 📫 How to reach me: linkedin : [Sharad Saha](https://www.linkedin.com/in/sharad-saha-0906711b8/)
+-                     email : sahasharad29@gmail.com
+-                     
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
