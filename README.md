@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Sharad Saha</h2>
-<h3 align="center">I'm a software developer focused on building modern scalable web applications 🌐 with a soft spot for Machine Learning )
+<h3 align="center">I'm a software developer focused on building modern scalable web applications 🌐 with a soft spot for Machine Learning
 🤖</h3>
 
 
