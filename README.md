@@ -12,7 +12,7 @@
 - 📫 How to reach me 
 > * **linkedin** : [Sharad Saha](https://www.linkedin.com/in/sharad-saha-0906711b8/)
 > * email: **sahasharad29@gmail.com**
-> * > * **Portfolio** : [Sharad Saha](https://sharadsaha.github.io/portfolio/)
+> * **Portfolio** : [Sharad Saha](https://sharadsaha.github.io/portfolio/)
 
 
 <p align="left">
